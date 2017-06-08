@@ -1,2 +1,3 @@
 # hello-world
 learning to use git hub
+Its qiute intresting way ro learn...
